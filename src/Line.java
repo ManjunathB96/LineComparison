@@ -1,4 +1,4 @@
-public class LineUC1 {
+public class Line {
     PointUC2 p1;
     PointUC2 p2;
 
