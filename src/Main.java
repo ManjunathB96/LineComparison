@@ -24,24 +24,20 @@ public class Main {
         l2.p2.y = 75;
 
 
-        float length1 = l1.getLength();
+        Float length1 = l1.getLength();
         System.out.println(length1);
 
-        float length2 = l2.getLength();
+        Float length2 = l2.getLength();
         System.out.println(length2);
 
-        // if(length1 == length2){
-        //     System.out.println("Both lines are equal");
+          if(length1. == length2){
+             System.out.println("Both lines are equal");
 
-        // }
-        // else {
-        //     System.out.println("lines are not equal");
-        // }
+         }
+         else {
+            System.out.println("lines are not equal");
+         }
 
-        System.out.println(l1 == l2);
-        System.out.println(l1.equals(l2));
-
-
-
+       
     }
 }
