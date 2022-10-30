@@ -1,5 +1,6 @@
-public class PointuC2 {
+public class PointUC2 {
     int x;
     int y;
+
 
 }
