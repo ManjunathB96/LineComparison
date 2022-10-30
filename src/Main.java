@@ -30,7 +30,7 @@ public class Main {
         Float length2 = l2.getLength();
         System.out.println(length2);
 
-          if(length1. == length2){
+          if(length1.equals(length2)){
              System.out.println("Both lines are equal");
 
          }
